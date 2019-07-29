@@ -1,2 +1,2 @@
-# FirstAngularProject
-My First AngularJS Project that uses components and lists
+# AngularProject
+My Angular Project that uses components and lists
